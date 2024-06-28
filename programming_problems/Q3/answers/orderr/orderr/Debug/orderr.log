@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\acer\source\repos\orderr\orderr\Source.cpp(14,47): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+C:\Users\acer\source\repos\orderr\orderr\Source.cpp(15,47): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+C:\Users\acer\source\repos\orderr\orderr\Source.cpp(82,54): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+  orderr.vcxproj -> C:\Users\acer\source\repos\orderr\Debug\orderr.exe
